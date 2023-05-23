@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.card-footer a {
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.card-item {
+  height: 500px;
+}
